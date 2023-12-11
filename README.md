@@ -3,7 +3,7 @@
 
 # GAMELEAN GAMES
 
-https://gamelean.netlify.app/
+Website: https://gamelean.netlify.app/
 
 <hr>
 
