@@ -6,3 +6,4 @@
 https://gamelean.netlify.app/
 
 - OVER 20 GAMES
+- NO VIRUS
